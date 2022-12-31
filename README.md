@@ -24,7 +24,7 @@ Users should be able to:
 - View the optimal layout for the section depending on their device's screen size
 
 ### Screenshot
-
+![solution-screenshot](https://user-images.githubusercontent.com/89041260/210155915-f3f09893-b69e-4886-8b3f-df706b0a5c7c.png)
 
 ### Links
 
