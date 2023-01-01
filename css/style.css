@@ -59,7 +59,7 @@ body {
 }
 
 main {
-    width: min(100% - 4.0625rem, 65.625rem);
+    width: min(100% - 1.5625rem, 65.625rem);
     margin-inline: auto;
 }
 
